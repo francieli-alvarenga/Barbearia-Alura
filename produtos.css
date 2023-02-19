@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+  .caixa {
+    width: 100%;
+  }
+
+  main {
+    width: auto;
+    padding: 10px;
+  }
+
+  .produtos li {
+    display: block;
+    margin: 0 auto 7px auto;
+    padding: 12px 0 10px 0;
+  }
+
+  ul.produtos {
+    width: 324px;
+    background-color: aqua;
+    height: 1000px;
+    display: inline;
+  }
+
+  .footer {
+    width: auto;
+  }
+}
